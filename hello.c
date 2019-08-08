@@ -1,5 +1,5 @@
 #include <stdio.h> 
- 
+//ok to commit the code on master 
 int main() { 
  
            /* I am C developer */ 
